@@ -1,0 +1,1 @@
+Basta configura o '.env' e depois rodas as 'migrate' para poder usar.
